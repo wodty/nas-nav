@@ -47,17 +47,6 @@
   ],
   "links": [
     {
-      "id": "l3",
-      "name": "Portainer",
-      "url": "http://nas.local:9000",
-      "icon": "PT",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/portainer.png",
-      "color": "#FFFFFF",
-      "desc": "Docker 容器管理",
-      "categoryId": "c5",
-      "sort": 0
-    },
-    {
       "id": "l4",
       "name": "qBittorrent",
       "url": "http://nas.local:8081",
