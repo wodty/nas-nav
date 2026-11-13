@@ -56,6 +56,17 @@
       "desc": "老司机导航页",
       "categoryId": "c1",
       "sort": 2
+    },
+    {
+      "id": "id_mwepksn132pl9",
+      "sort": 1,
+      "name": "导航页",
+      "url": "https://l.llyg.cc.cd/",
+      "icon": "",
+      "iconUrl": "https://icons.scy.cc.cd/icons/Docker/Sun-Panel.png",
+      "color": "#ffffff",
+      "categoryId": "c1",
+      "desc": "流年已逝"
     }
   ]
 }
