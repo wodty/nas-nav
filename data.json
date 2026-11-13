@@ -48,13 +48,13 @@
   "links": [
     {
       "id": "l9",
-      "name": "Cockpit",
-      "url": "http://nas.local:9090",
+      "name": "导航页",
+      "url": "https://133132131.xyz",
       "icon": "CK",
       "iconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/cockpit.png",
-      "color": "#FFFFFF",
-      "desc": "服务器 Web 管理",
-      "categoryId": "c5",
+      "color": "#ffffff",
+      "desc": "老司机导航页",
+      "categoryId": "c1",
       "sort": 2
     }
   ]
