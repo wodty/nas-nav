@@ -47,17 +47,6 @@
   ],
   "links": [
     {
-      "id": "l2",
-      "name": "Nextcloud",
-      "url": "http://nas.local:8080",
-      "icon": "NC",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nextcloud.png",
-      "color": "#FFFFFF",
-      "desc": "私有云盘与协作",
-      "categoryId": "c3",
-      "sort": 0
-    },
-    {
       "id": "l3",
       "name": "Portainer",
       "url": "http://nas.local:9000",
