@@ -58,17 +58,6 @@
       "sort": 1
     },
     {
-      "id": "l6",
-      "name": "AdGuard Home",
-      "url": "http://nas.local:3000",
-      "icon": "AG",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/adguard-home.png",
-      "color": "#FFFFFF",
-      "desc": "网络广告过滤",
-      "categoryId": "c6",
-      "sort": 0
-    },
-    {
       "id": "l7",
       "name": "Alist",
       "url": "http://nas.local:5244",
