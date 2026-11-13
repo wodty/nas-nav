@@ -47,17 +47,6 @@
   ],
   "links": [
     {
-      "id": "l5",
-      "name": "Home Assistant",
-      "url": "http://nas.local:8123",
-      "icon": "HA",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/home-assistant.png",
-      "color": "#FFFFFF",
-      "desc": "智能家居中枢",
-      "categoryId": "c5",
-      "sort": 1
-    },
-    {
       "id": "l7",
       "name": "Alist",
       "url": "http://nas.local:5244",
