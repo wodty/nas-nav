@@ -47,17 +47,6 @@
   ],
   "links": [
     {
-      "id": "l4",
-      "name": "qBittorrent",
-      "url": "http://nas.local:8081",
-      "icon": "QB",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/qbittorrent.png",
-      "color": "#FFFFFF",
-      "desc": "BT 下载客户端",
-      "categoryId": "c4",
-      "sort": 0
-    },
-    {
       "id": "l5",
       "name": "Home Assistant",
       "url": "http://nas.local:8123",
