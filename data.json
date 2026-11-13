@@ -56,17 +56,6 @@
       "desc": "服务器 Web 管理",
       "categoryId": "c5",
       "sort": 2
-    },
-    {
-      "id": "l10",
-      "name": "Prowlarr",
-      "url": "http://nas.local:9696",
-      "icon": "PW",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/prowlarr.png",
-      "color": "#FFFFFF",
-      "desc": "索引器管理",
-      "categoryId": "c4",
-      "sort": 1
     }
   ]
 }
